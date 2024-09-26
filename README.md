@@ -5,4 +5,6 @@ HW1: Calculator with various mathematical operations, including basic arithmetic
 
 HW2: Program calculates the value of Pi using three different mathematical methods: Leibniz's Formula, Nilakantha's Series and Newton's Method.
 
-HW3: Program performs polynomial operations such as evaluation, addition, and multiplication.
+HW3: Performs polynomial operations such as evaluation, addition, and multiplication.
+
+HW4: Sorts numerical data and associated lists based on specified conditions: either sorts a list of numbers in ascending/descending order using a simple bubble sort algorithm or sorts a list of data (e.g., names, strings) based on the corresponding list of weights.
